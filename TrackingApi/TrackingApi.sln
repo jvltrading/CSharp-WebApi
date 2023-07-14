@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrackingApi", "TrackingApi.csproj", "{758EADFE-3459-4BFA-A922-C22DEF9F681D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tracking.client", "..\tracking.client\tracking.client.csproj", "{AA352B43-04A6-4D4E-B003-DB8D26C4A5ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{758EADFE-3459-4BFA-A922-C22DEF9F681D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758EADFE-3459-4BFA-A922-C22DEF9F681D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758EADFE-3459-4BFA-A922-C22DEF9F681D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758EADFE-3459-4BFA-A922-C22DEF9F681D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA352B43-04A6-4D4E-B003-DB8D26C4A5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA352B43-04A6-4D4E-B003-DB8D26C4A5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA352B43-04A6-4D4E-B003-DB8D26C4A5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA352B43-04A6-4D4E-B003-DB8D26C4A5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5424E102-28B3-459A-9551-3353CF1D177F}
+	EndGlobalSection
+EndGlobal
